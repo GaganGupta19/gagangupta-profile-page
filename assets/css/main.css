@@ -6,8 +6,27 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.margin-0{
+	margin: 0 !important;
+}
 
-/* avatar */
+.font-12{
+	font-size: 12px;
+}
+/* quote */
+
+.quote{
+	font-style: italic;
+  font-size: 10px;
+  font-weight: 300;
+  line-height: 10px;
+}
+.skills{
+	text-align: left;
+	font-size: 12px;
+	letter-spacing: 1.5px;
+}
+
 /* Icon (alt) */
 
 	html, body, div, span, applet, object,
